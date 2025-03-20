@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/elementproduct/static/css/main.5131209f.css",
+    "main.js": "/elementproduct/static/js/main.babef2d5.js",
+    "index.html": "/elementproduct/index.html",
+    "main.5131209f.css.map": "/elementproduct/static/css/main.5131209f.css.map",
+    "main.babef2d5.js.map": "/elementproduct/static/js/main.babef2d5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5131209f.css",
+    "static/js/main.babef2d5.js"
+  ]
+}
